@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<script>
+// Gegeben: Name des Fotografen und Jahr
+let fotograf = "Max Mustermann";
+let jahr = 2024;
+// Erstellung der Bildunterschrift
+//(z. B. "Foto: Max Mustermann, 2024")
+let caption = let fotograf = "Max Mustermann";
+let jahr = 2024;
+// Ausgabe der Bildunterschrift
+alert(caption);
+</script>
+</head>
+<body>
+</body>
+</html>
